@@ -1,0 +1,12 @@
+*~
+.DS_Store
+.bloop
+.metals
+.vscode
+.idea
+project/metals.sbt
+target/
+project/project/
+.jvmopts
+.bsp
+yarn.lock
